@@ -1,0 +1,10 @@
+body {
+    background-color: #000000;
+    color: green
+ } 
+
+ span {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 10px;
+ }
